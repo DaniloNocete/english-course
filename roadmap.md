@@ -1,6 +1,7 @@
 # 🗺️ Roadmap — Guia de Inglês (Cork)
 
-**Arquivo único:** `guia_ingles_britanico.html`
+**Arquivo único:** `index.html` (era `guia_ingles_britanico.html` — renomeado para abrir na raiz do GitHub Pages)
+**Publicado:** <https://github.com/DaniloNocete/english-course> · página: `https://danilonocete.github.io/english-course/`
 **Última atualização:** 18/09/2026 — *material completo + **reorganizado por nível** (ordem física da página = A1 → A2 → B1 → B2 → C1 → Consulta)*
 **Aluno:** A2+, brasileiro, morando em Cork (Irlanda) · **Padrão:** inglês britânico com sabor irlandês
 
