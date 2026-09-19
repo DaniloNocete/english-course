@@ -1,5 +1,10 @@
 .ssh/
+.gitconfig
 uploads/
 .cache/
+.local/
+.config/
 .npm/
+node_modules/
+*.log
 .sudo_as_admin_successful
